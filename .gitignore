@@ -23,3 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 /src/firebaseKeys.js
+.firebase/hosting.YnVpbGQ.cache
