@@ -1,4 +1,4 @@
-## Available Scripts
+## Instagram Clone
 
 In the project directory, you can run:
 
